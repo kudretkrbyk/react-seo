@@ -88,7 +88,7 @@
       "scoreDisplayMode": "notApplicable"
     },
     "speed-index": {
-      "id": "speed-index",
+      "id": "speed-index-degeri",
       "title": "Speed Index",
       "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more about the Speed Index metric](https://developer.chrome.com/docs/lighthouse/performance/speed-index/).",
       "score": 1,
